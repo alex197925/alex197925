@@ -10,7 +10,7 @@ languages and frameworks like React.js, JavaScript,HTML,CSS,SCSS....
 
 ## Skils and Experience
 * :atom:
-* :💻: HTML / CSS / JavaScript / SCSS / GITHUB
+* 💻 HTML / CSS / JavaScript / SCSS / GITHUB
  
 
 
