@@ -11,7 +11,7 @@ languages and frameworks like React.js, JavaScript,HTML,CSS,SCSS....
 ## Skils and Experience
 * :atom:
 * 💻 HTML / CSS / JavaScript / SCSS / GITHUB
- 
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[https://simpleicons.org/?q=java].svg" />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex197925&hide=contribs,prs)
