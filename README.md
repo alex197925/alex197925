@@ -4,4 +4,4 @@ I'm Alex from Belgium. I am student in BeCode school, Junior Front-End Web Devel
 languages and frameworks like React.js, JavaScript,HTML,CSS,SCSS....
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex)](https://github.com/alex/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex197925)](https://github.com/anuraghazra/github-readme-stats)
