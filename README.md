@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ### Hi there 👋, my name is Alex
 #### I am Junior Front End Developer
@@ -9,7 +9,7 @@ languages and frameworks like React.js, JavaScript,HTML,CSS,SCSS....
 
 Skills:  REACT / JS / HTML / CSS / SCSS / GITHUB
 
-- 🔭 I’m currently working on this page. 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex197925&hide=contribs,prs)
 
 
 
