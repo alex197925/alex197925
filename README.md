@@ -7,6 +7,10 @@
 I'm Ukrainian guy living in Belgium. I am student in BeCode school, Junior Front-End Web Developer.I realty like learn 
 languages and frameworks like React.js, JavaScript,HTML,CSS,SCSS....
 
+
+## Skils and Experience
+
+
 Skills:  REACT / JS / HTML / CSS / SCSS / GITHUB
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex197925&hide=contribs,prs)
