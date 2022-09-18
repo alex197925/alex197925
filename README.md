@@ -9,7 +9,8 @@ languages and frameworks like React.js, JavaScript,HTML,CSS,SCSS....
 
 
 ## Skils and Experience
-
+* :atom:
+ 
 Skills:  REACT / JS / HTML / CSS / SCSS / GITHUB
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex197925&hide=contribs,prs)
