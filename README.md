@@ -4,7 +4,7 @@
 ## I am Junior Front End Developer
 ![Junior Front End Developer](https://github.com/alex197925/alex197925/blob/main/OVh2Uuu.webp)
 
-I'm Ukrainian guy living in Belgium. I am student in BeCode school, Junior Front-End Web Developer.I realty like learn 
+I am Ukrainian guy living in Belgium, studing in BeCode school, Junior Front-End Web Developer.I really like learn 
 languages and frameworks like React.js, JavaScript,HTML,CSS,SCSS....
 
 
