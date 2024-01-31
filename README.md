@@ -5,6 +5,7 @@
 - 👨🏻‍🎓 Studied Web Development in BeCode School Antwerpen(BE)
 - 💻 Currently learning about Cypress..... 🤓 <br/> _[Cypress Website](https://docs.cypress.io/guides/overview/why-cypress)
 
+#  GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex197925&show_icons=true&&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex197925&layout=compact&hide=contribs&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 # 📟 Tech Stack:
@@ -12,8 +13,7 @@
 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Alex T) 
+
 
 
 
