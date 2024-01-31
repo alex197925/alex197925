@@ -1,5 +1,4 @@
-<code>**Hi, I'm Oleksandr**👋</code>
-
+# Hi, I'm Oleksandr👋 
 
 - 🔭 Junior Web Developer sharing about my journey and learning in TECH <br/>
 - 👨🏻‍🎓 Studied Web Development in BeCode School Antwerpen(BE)
