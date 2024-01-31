@@ -1,6 +1,6 @@
 # Hi, I'm Oleksandr👋 
 
-- 🔭 Junior Web Developer sharing about my journey and learning in TECH <br/>
+- 🔭 Junior Web Developer sharing about my journey and learnings in tech <br/>
 - 👨🏻‍🎓 Studied Web Development in BeCode School Antwerpen(BE)
 - 💻 Currently learning about Cypress..... 🤓 <br/> _[Cypress Website](https://docs.cypress.io/guides/overview/why-cypress)
 
